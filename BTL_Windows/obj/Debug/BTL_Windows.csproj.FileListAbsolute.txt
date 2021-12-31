@@ -1,0 +1,17 @@
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\bin\Debug\BTL_Windows.exe.config
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\bin\Debug\BTL_Windows.exe
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\bin\Debug\BTL_Windows.pdb
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.csprojAssemblyReference.cache
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.frmLogin.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.Properties.Resources.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.csproj.GenerateResource.cache
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.csproj.CoreCompileInputs.cache
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.exe
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.pdb
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.AdminForm.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.QLTS.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.ThiSinh.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.frmVaoThi.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.doimatkhau.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.Xemketqua.resources
+C:\Users\ledan\Desktop\BTLWindows\BTL_Windows\obj\Debug\BTL_Windows.ThongKeKQ.resources
